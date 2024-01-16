@@ -1,0 +1,20 @@
+.tweet-wrapper{
+    border: 1px solid black;
+    padding: 1rem;
+    width: 600px;
+    font-size: larger;
+}
+.likes, .created-at{
+    font-size: xx-small;
+}
+.tweet-content{
+    margin-bottom: 1rem;
+}
+.like-createdAt-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.tweet-edit-wrapper{
+    display:flex;
+    justify-content: space-between;
+}
